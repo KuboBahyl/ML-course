@@ -1,5 +1,6 @@
-# ML-course
-After completing this course you will get a broad idea of Data Science and Machine learning algorithms.
+# Week 1 (13th February)
+- Overview of the course, communication policy
+- What is mahcine learning
+- Python introduction
 
-# References
-- Datacamp learning track: https://www.datacamp.com/tracks/data-scientist-with-python
+presentation: https://docs.google.com/presentation/d/1s_mZj4PwQ7Ad9hlG-m8g6kpxoEM9p3clqVXHeZ5CXL0/edit?usp=sharing
